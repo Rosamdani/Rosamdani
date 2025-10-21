@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel, Flutter, React**
 
-- 👨‍💻 All of my projects are available at [rosyamdani.netlify.app](rosyamdani.netlify.app)
-
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **rosamdani91@gmail.com**
